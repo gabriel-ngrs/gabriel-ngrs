@@ -7,21 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prodis808&layout=compact&hide_border=true&title_color=C0C0C0&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prodis808&bg_color=000000&color=C0C0C0&line=C0C0C0&point=C0C0C0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<div align="center">  
-    <a href="https://www.instagram.com/gabriel_ngrs/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-</div> 
-<div align="center">  
-    <a href="https://www.linkedin.com/in/gabriel-negreiros-saraiva-41b1a5192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-        <img src="https://img.shields.io/badge/-Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-</div>  
-
-
  
 ### Main skills:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -42,5 +27,17 @@
 ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=#092E20&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
+<div align="center">  
+    <a href="https://www.instagram.com/gabriel_ngrs/" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+</div> 
+<div align="center">  
+    <a href="https://www.linkedin.com/in/gabriel-negreiros-saraiva-41b1a5192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+        <img src="https://img.shields.io/badge/-Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>  
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prodis808&bg_color=000000&color=C0C0C0&line=C0C0C0&point=C0C0C0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=footer"/>
