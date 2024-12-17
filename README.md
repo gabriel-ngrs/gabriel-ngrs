@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Gabriel+Negreiros;Tenho+19+anos,+moro+em+João+Pessoa,+PB;Estudo+Ciências+de+Dados+e+I.A+na+UFPB+:%29)](https://git.io/typing-svg) 
 
@@ -36,5 +36,5 @@
         <img src="https://img.shields.io/badge/-Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div>  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
 
