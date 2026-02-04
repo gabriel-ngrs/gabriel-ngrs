@@ -68,13 +68,14 @@ Estou sempre buscando novos desafios que envolvam Cloud Computing, Otimização 
 
 <br/>
 
-<div align="center"> 
+<div align="center">
     <a href="https://www.linkedin.com/in/gabriel-negreiros-saraiva-41b1a5192" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielnegreirossaraiva38@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a><a href="https://www.instagram.com/gabriel_ngrs" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href="mailto:gabrielnegreirossaraiva38@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-</div>  
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
