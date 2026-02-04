@@ -7,6 +7,16 @@
 </div>
 
 <br/>
+Sobre Mim:
+
+Sou um desenvolvedor de 20 anos apaixonado por transformar dados em soluções reais. Acadêmico de **Ciência de Dados e Inteligência Artificial na UFPB**, dedico meus estudos a unir a teoria matemática com a prática da engenharia de software.
+
+Minha atuação técnica se concentra em:
+* 🤖 **AI Engineering:** Desenvolvimento de agentes inteligentes e automação de processos.
+* ⚙️ **MLOps & Backend:** Construção de pipelines de dados robustos e arquiteturas escaláveis.
+* 📈 **Análise de Dados:** Aplicação de modelos estatísticos para resolver problemas complexos e identificar oportunidades.
+
+Estou sempre buscando novos desafios que envolvam Cloud Computing, Otimização e Inteligência Artificial.
 
 <div align="center">
   
