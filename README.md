@@ -18,6 +18,8 @@ Minha atuação técnica se concentra em:
 
 Estou sempre buscando novos desafios que envolvam Cloud Computing, Otimização e Inteligência Artificial.
 
+<br/>
+
 <div align="center">
   
   ### 🛠️ Tech Stack & Tools
@@ -26,31 +28,22 @@ Estou sempre buscando novos desafios que envolvam Cloud Computing, Otimização 
   <img src="https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&logoColor=A8B9CC" alt="C" />
   <img src="https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&logoColor=00599C" alt="C++" />
   <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&logoColor=3178C6" alt="TypeScript" />
-
-  <br/>
-
   <img src="https://img.shields.io/badge/-LangChain-0D1117?style=for-the-badge&logo=langchain&labelColor=0D1117&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117&logoColor=009688" alt="FastAPI" />
   <img src="https://img.shields.io/badge/-Pydantic-0D1117?style=for-the-badge&logo=pydantic&labelColor=0D1117&logoColor=E92063" alt="Pydantic" />
-  
-  <br/>
-
   <img src="https://img.shields.io/badge/-Celery-0D1117?style=for-the-badge&logo=celery&labelColor=0D1117&logoColor=37814A" alt="Celery" />
   <img src="https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&logo=redis&labelColor=0D1117&logoColor=DC382D" alt="Redis" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&logoColor=4169E1" alt="PostgreSQL" />
   
   <br/>
 
+  <img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&logoColor=4169E1" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/-SQLAlchemy-0D1117?style=for-the-badge&logo=sqlalchemy&labelColor=0D1117&logoColor=D71F00" alt="SQLAlchemy" />
   <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&logoColor=white" alt="Next.js" />
-  
-  <br/>
-
   <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117&logoColor=06B6D4" alt="Tailwind" />
   <img src="https://img.shields.io/badge/-Railway-0D1117?style=for-the-badge&logo=railway&labelColor=0D1117&logoColor=white" alt="Railway" />
-  
+
 </div>
 
 <br/>
