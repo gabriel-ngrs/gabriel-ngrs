@@ -20,36 +20,27 @@
   <br/>
 
   <img src="https://img.shields.io/badge/-LangChain-0D1117?style=for-the-badge&logo=langchain&labelColor=0D1117&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/-OpenAI-0D1117?style=for-the-badge&logo=openai&labelColor=0D1117&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/-Anthropic-0D1117?style=for-the-badge&logo=anthropic&labelColor=0D1117&logoColor=D0966F" alt="Anthropic" />
-
-  <br/>
-
   <img src="https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117&logoColor=009688" alt="FastAPI" />
   <img src="https://img.shields.io/badge/-Pydantic-0D1117?style=for-the-badge&logo=pydantic&labelColor=0D1117&logoColor=E92063" alt="Pydantic" />
-  <img src="https://img.shields.io/badge/-Celery-0D1117?style=for-the-badge&logo=celery&labelColor=0D1117&logoColor=37814A" alt="Celery" />
-  <img src="https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&logo=redis&labelColor=0D1117&logoColor=DC382D" alt="Redis" />
   
   <br/>
 
+  <img src="https://img.shields.io/badge/-Celery-0D1117?style=for-the-badge&logo=celery&labelColor=0D1117&logoColor=37814A" alt="Celery" />
+  <img src="https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&logo=redis&labelColor=0D1117&logoColor=DC382D" alt="Redis" />
   <img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-SQLAlchemy-0D1117?style=for-the-badge&logo=sqlalchemy&labelColor=0D1117&logoColor=D71F00" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/-Alembic-0D1117?style=for-the-badge&logo=alembic&labelColor=0D1117&logoColor=white" alt="Alembic" />
-
+  
   <br/>
 
+  <img src="https://img.shields.io/badge/-SQLAlchemy-0D1117?style=for-the-badge&logo=sqlalchemy&labelColor=0D1117&logoColor=D71F00" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&logoColor=white" alt="Next.js" />
+  
+  <br/>
+
   <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117&logoColor=06B6D4" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&logoColor=1572B6" alt="CSS3" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/-GitHub_Actions-0D1117?style=for-the-badge&logo=github-actions&labelColor=0D1117&logoColor=2088FF" alt="Actions" />
-  <img src="https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonwebservices&labelColor=0D1117&logoColor=FF9900" alt="AWS" />
   <img src="https://img.shields.io/badge/-Railway-0D1117?style=for-the-badge&logo=railway&labelColor=0D1117&logoColor=white" alt="Railway" />
-
+  
 </div>
 
 <br/>
