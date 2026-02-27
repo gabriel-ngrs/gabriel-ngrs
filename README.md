@@ -62,11 +62,6 @@ Estou sempre buscando novos desafios que envolvam Cloud Computing, Otimização 
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-ngrs&bg_color=0D1117&color=ffffff&line=3178C6&point=ffffff&area=true&hide_border=true" />
-</div>
-
-<br/>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/gabriel-negreiros-saraiva-41b1a5192" target="_blank">
