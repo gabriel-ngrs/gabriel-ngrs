@@ -1,76 +1,75 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a1a2e&height=140&section=header&text=Gabriel%20Negreiros&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=AI%20Engineer%20·%20Full%20Stack%20·%20MLOps&descAlignY=75&descSize=16&descColor=aaaaaa"/>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=fff&size=32&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Gabriel+Negreiros;Tenho+20+anos,+moro+em+João+Pessoa,+PB;Estudo+Ciências+de+Dados+e+I.A+na+UFPB;Dev+Backend,+Data+Science+e+MLOps" alt="Typing SVG" />
+<br/>
+
+<p align="center">
+  Engenheiro de IA com foco em produtos inteligentes de ponta a ponta<br/>
+  do treinamento de modelos ao deploy em produção.<br/>
+  Graduando em <strong>Ciência de Dados e IA na UFPB</strong>.
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://linkedin.com/in/gabriel-negreiros-saraiva-41b1a5192">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
+  <a href="mailto:gabrielnegreirossaraiva38@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/gabriel_ngrs">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
-<br/>
-Sobre Mim:
+---
 
-Sou um desenvolvedor de 20 anos apaixonado por transformar dados em soluções reais. Acadêmico de **Ciência de Dados e Inteligência Artificial na UFPB**, dedico meus estudos a unir a teoria matemática com a prática da engenharia de software.
+### 🤖 AI & MLOps
 
-Minha atuação técnica se concentra em:
-* 🤖 **AI Engineering:** Desenvolvimento de agentes inteligentes e automação de processos.
-* ⚙️ **MLOps & Backend:** Construção de pipelines de dados robustos e arquiteturas escaláveis.
-* 📈 **Análise de Dados:** Aplicação de modelos estatísticos para resolver problemas complexos e identificar oportunidades.
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-0D1117?style=flat-square&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
 
-Estou sempre buscando novos desafios que envolvam Cloud Computing, Otimização e Inteligência Artificial.
+`LLMs` `RAG` `Fine-tuning` `Visão Computacional` `Sistemas Multi-Agente` `MCP`
 
-<br/>
+### ⚙️ Backend
 
-<div align="center">
-  
-  ### 🛠️ Tech Stack & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=DC382D)
+![Celery](https://img.shields.io/badge/Celery-0D1117?style=flat-square&logo=celery&logoColor=37814A)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=D71F00)
 
-  <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&logoColor=A8B9CC" alt="C" />
-  <img src="https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&logoColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-LangChain-0D1117?style=for-the-badge&logo=langchain&labelColor=0D1117&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117&logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/-Pydantic-0D1117?style=for-the-badge&logo=pydantic&labelColor=0D1117&logoColor=E92063" alt="Pydantic" />
-  <img src="https://img.shields.io/badge/-Celery-0D1117?style=for-the-badge&logo=celery&labelColor=0D1117&logoColor=37814A" alt="Celery" />
-  <img src="https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&logo=redis&labelColor=0D1117&logoColor=DC382D" alt="Redis" />
-  
-  <br/>
+### 🖥️ Frontend
 
-  <img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-SQLAlchemy-0D1117?style=for-the-badge&logo=sqlalchemy&labelColor=0D1117&logoColor=D71F00" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117&logoColor=06B6D4" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/-Railway-0D1117?style=for-the-badge&logo=railway&labelColor=0D1117&logoColor=white" alt="Railway" />
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
-</div>
+---
 
-<br/>
+### 🚀 Projetos em destaque
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**CalorIA**](https://github.com/gabriel-ngrs/CalorIA) | SaaS de assistência nutricional com LLMs e Visão Computacional | Python · LLMs · NLP |
+| [**Calculadora Tática**](https://calculadora-tatica.vercel.app) | Ferramenta de arbitragem esportiva com Programação Linear | Python · Flask · Vercel |
+| [**PL Bets**](https://github.com/gabriel-ngrs/PL_Bets) | Otimização de apostas com algoritmos de PL em tempo real | Python · Flask |
+| [**Socio Violence Predictor**](https://github.com/gabriel-ngrs/socio_violence_predictor) | Modelagem preditiva de violência socioeconômica | Scikit-learn · NumPy |
+
+---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/gabriel-ngrs">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabriel-ngrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  </a>
-  
-  <a href="https://github.com/gabriel-ngrs">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabriel-ngrs&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=0D1117" />
-  </a>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabriel-ngrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabriel-ngrs&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <br/>
 
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/gabriel-negreiros-saraiva-41b1a5192" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielnegreirossaraiva38@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a><a href="https://www.instagram.com/gabriel_ngrs" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0D1117&height=120&section=footer"/>
