@@ -56,8 +56,8 @@
 | Projeto | O que é | Stack |
 |---|---|---|
 | [**CalorIA**](https://github.com/gabriel-ngrs/CalorIA) | Assistente nutricional com IA generativa e visão computacional | Python · LLMs · NLP |
-| [**Calculadora Tática**](https://calculadora-tatica.vercel.app) | Ferramenta de otimização com Programação Linear aplicada à tomada de decisão | Python · Flask · Vercel |
-| [**PL Bets**](https://github.com/gabriel-ngrs/PL_Bets) | Motor de otimização em tempo real usando algoritmos de Programação Linear | Python · Flask |
+| [**Odds Arbitrage Calculator**](https://github.com/gabriel-ngrs/odds-arbitrage-calculator) | Calculadora de cenários de arbitragem baseada em odds, bônus, freebets e estratégias matemáticas | Python · Flask · Vercel |
+| [**Linear Programming Odds Optimizer**](https://github.com/gabriel-ngrs/linear-programming-odds-optimizer) | Motor de otimização com Programação Linear para encontrar a melhor alocação entre mercados, odds e restrições | Python · Flask · Programação Linear |
 | [**Socio Violence Predictor**](https://github.com/gabriel-ngrs/socio_violence_predictor) | Modelagem preditiva de violência socioeconômica | Scikit-learn · NumPy |
 
 ---
