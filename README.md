@@ -1,11 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a1a2e&height=140&section=header&text=Gabriel%20Negreiros&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=AI%20Engineer%20·%20Full%20Stack%20·%20MLOps&descAlignY=75&descSize=16&descColor=aaaaaa"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a1a2e&height=140&section=header&text=Gabriel%20Negreiros&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=Applied%20AI%20·%20Python%20Backend%20·%20Data%20Products&descAlignY=75&descSize=16&descColor=aaaaaa"/>
 
 <br/>
 
 <p align="center">
-  Engenheiro de IA com foco em produtos inteligentes de ponta a ponta<br/>
-  do treinamento de modelos ao deploy em produção.<br/>
-  Graduando em <strong>Ciência de Dados e IA na UFPB</strong>.
+  Estudante de Ciência de Dados e Inteligência Artificial na UFPB<br/>
+  com foco em IA aplicada, backend Python e produtos digitais.<br/>
+  Construindo soluções que conectam dados, modelos e sistemas reais.
 </p>
 
 <br/>
@@ -24,14 +25,14 @@
 
 ---
 
-### 🤖 AI & MLOps
+### 🤖 Applied AI & Data
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
 ![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
 
-`LLMs` `RAG` `Fine-tuning` `Visão Computacional` `Sistemas Multi-Agente` `MCP`
+`LLMs` `RAG` `Agentes de IA` `Visão Computacional` `NLP` `Fine-tuning` `MCP`
 
 ### ⚙️ Backend
 
@@ -54,9 +55,9 @@
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [**CalorIA**](https://github.com/gabriel-ngrs/CalorIA) | SaaS de assistência nutricional com LLMs e Visão Computacional | Python · LLMs · NLP |
-| [**Calculadora Tática**](https://calculadora-tatica.vercel.app) | Ferramenta de arbitragem esportiva com Programação Linear | Python · Flask · Vercel |
-| [**PL Bets**](https://github.com/gabriel-ngrs/PL_Bets) | Otimização de apostas com algoritmos de PL em tempo real | Python · Flask |
+| [**CalorIA**](https://github.com/gabriel-ngrs/CalorIA) | Assistente nutricional com IA generativa e visão computacional | Python · LLMs · NLP |
+| [**Calculadora Tática**](https://calculadora-tatica.vercel.app) | Ferramenta de otimização com Programação Linear aplicada à tomada de decisão | Python · Flask · Vercel |
+| [**PL Bets**](https://github.com/gabriel-ngrs/PL_Bets) | Motor de otimização em tempo real usando algoritmos de Programação Linear | Python · Flask |
 | [**Socio Violence Predictor**](https://github.com/gabriel-ngrs/socio_violence_predictor) | Modelagem preditiva de violência socioeconômica | Scikit-learn · NumPy |
 
 ---
